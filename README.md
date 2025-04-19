@@ -72,5 +72,5 @@ API REST desarrollada en ASP.NET Core 8 con Entity Framework Core y base de dato
 
 ## 🔗 Autor
 
-Desarrollado por Juan Antonio Ferrer Del Campo  
-[LinkedIn](www.linkedin.com/in/juan-antonio-ferrer-del-campo-83905a19b)
+Desarrollado por Juan Antonio Ferrer Del Campo
+Mi perfil del Linkedin: https://www.linkedin.com/in/juan-antonio-ferrer-del-campo-83905a19b/
