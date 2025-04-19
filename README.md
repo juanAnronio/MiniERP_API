@@ -4,7 +4,7 @@ API REST desarrollada en ASP.NET Core 8 con Entity Framework Core y base de dato
 
 ## 🚀 Tecnologías utilizadas
 
-- ASP.NET Core 6
+- ASP.NET Core 8
 - Entity Framework Core
 - SQLite
 - Swagger (OpenAPI)
